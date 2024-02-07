@@ -1,4 +1,0 @@
-German,5
-Priyanka,2
-german,2
-german,0
