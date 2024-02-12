@@ -1,0 +1,6 @@
+German,5
+Priyanka,2
+german,2
+german,0
+german,3
+hugo,9
